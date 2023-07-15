@@ -1,1 +1,15 @@
-# ML_Models_project
+# Data
+- *Churn* — the fact of churn for the month in question.
+- *gender* - gender of the customer.
+- *Near_Location* — whether the customer lives or works in the neighborhood where the gym is located.
+- *Partner* — whether the customer is an employee of a partner company affiliated with the gym.
+- *Promo_friends* — whether the customer used a friend's promo code when paying for their first membership.
+- *Phone* — whether the customer provided their phone number.
+- *Age* - age of the customer.
+- *Lifetime* — the time (in months) since the customer first came to the gym.
+- *Contract_period* — 1 month, 3 months, 6 months, or 1 year.
+- *Month_to_end_contract* — the months remaining until the contract expires.
+- *Group_visits* — whether the customer takes part in group sessions.
+- *Avg_class_frequency_total* — average frequency of visits per week over the customer's lifetime.
+- *Avg_class_frequency_current_month* — average frequency of visits per week over the preceding month.
+- *Avg_additional_charges_total* — the total amount of money spent on other gym services.
